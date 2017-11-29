@@ -1,0 +1,33 @@
+---
+layout: post
+title: "how to play bass line"
+img: himalayan.jpg # Add image post (optional)
+date: 2017-07-04 12:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Travel, Blogging, Mountains]
+---
+[100首经典乐队连复段 由鼓手和贝司手共同完成 ](https://v.qq.com/x/cover/l0161z1kjzl/l0161z1kjzl.html)
+
+{% include videos.html id=page.l0161z1kjzl %}
+
+https://v.qq.com/x/page/l0161z1kjzl.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> 如果你有好的教材或者自己是优质的贝斯手可以把资料发到我的邮箱，我会放到网站上. <cite>- 辽宁·大连</cite>
