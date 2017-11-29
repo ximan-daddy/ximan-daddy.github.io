@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "how to play bass line"
+title: "鼓和贝斯完成的经典100段loop"
 img: himalayan.jpg # Add image post (optional)
-date: 2017-07-04 12:55:00 +0300
+date: 2017-07-05 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
 [100首经典乐队连复段 由鼓手和贝司手共同完成 ](https://v.qq.com/x/cover/l0161z1kjzl/l0161z1kjzl.html)
 
-{% include videos.html id=page.l0161z1kjzl %}
+{% include videos.html id="l0161z1kjzl" %}
 
-https://v.qq.com/x/page/l0161z1kjzl.html
+
+
+
 
 
 
