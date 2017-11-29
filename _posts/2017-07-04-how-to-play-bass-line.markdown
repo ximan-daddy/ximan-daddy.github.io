@@ -40,7 +40,7 @@ tag: [Travel, Blogging, Mountains]
 ### part5-拨弦式Funk低音线
 
 
-[在线浏览pdf]({{ site.url }}/bass/assets/pdf/how_to_play_bass_line.pdf)
+[如何演奏线条.pdf]({{ site.url }}/assets/pdf/how_to_play_bass_line.pdf)
 
 
 > 如果你有好的教材或者自己是优质的贝斯手可以把资料发到我的邮箱，我会放到网站上. <cite>- 辽宁·大连</cite>
