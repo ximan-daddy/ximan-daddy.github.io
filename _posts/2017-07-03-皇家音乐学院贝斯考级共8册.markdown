@@ -1,0 +1,9 @@
+---
+layout: post
+title: "皇家音乐学院贝斯考级共8册"
+img: himalayan.jpg # Add image post (optional)
+date: 2017-07-03 12:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Travel, Blogging, Mountains]
+---
+[参考](https://zhuanlan.zhihu.com/p/28292824)
